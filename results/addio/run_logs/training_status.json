@@ -1,0 +1,30 @@
+{
+    "Ball": {
+        "checkpoints": [
+            {
+                "steps": 499209,
+                "file_path": "results/addio/Ball/Ball-499209.onnx",
+                "reward": null,
+                "creation_time": 1674239705.079406
+            },
+            {
+                "steps": 500209,
+                "file_path": "results/addio/Ball/Ball-500209.onnx",
+                "reward": null,
+                "creation_time": 1674239705.134751
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500209,
+            "file_path": "results/addio/Ball.onnx",
+            "reward": null,
+            "creation_time": 1674239705.134751
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": -1
+    }
+}

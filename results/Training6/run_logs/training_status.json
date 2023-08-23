@@ -1,0 +1,36 @@
+{
+    "Bowling": {
+        "checkpoints": [
+            {
+                "steps": 499982,
+                "file_path": "results/Training6/Bowling/Bowling-499982.onnx",
+                "reward": 18.317365269461078,
+                "creation_time": 1674655570.389039
+            },
+            {
+                "steps": 999979,
+                "file_path": "results/Training6/Bowling/Bowling-999979.onnx",
+                "reward": 19.5,
+                "creation_time": 1674655863.607581
+            },
+            {
+                "steps": 1310464,
+                "file_path": "results/Training6/Bowling/Bowling-1310464.onnx",
+                "reward": 19.356877323420075,
+                "creation_time": 1674656043.321631
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1310464,
+            "file_path": "results/Training6/Bowling.onnx",
+            "reward": 19.356877323420075,
+            "creation_time": 1674656043.321631
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": -1
+    }
+}
